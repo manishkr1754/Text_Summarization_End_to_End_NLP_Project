@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/manishkr1754/Text_Summarization_End_to_End_NLP_Project
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
