@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "Text_Summarization_End_to_End_NLP_Project"
-AUTHOR_USER_NAME = "manishkr1754"
+REPO_NAME = "Text-Summarizer-Project"
+AUTHOR_USER_NAME = "entbappy"
 SRC_REPO = "textSummarizer"
-AUTHOR_EMAIL = "manishkr1754@gmail.com"
+AUTHOR_EMAIL = "entbappy73@gmail.com"
 
 
 
